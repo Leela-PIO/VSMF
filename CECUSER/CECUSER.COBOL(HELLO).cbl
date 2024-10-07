@@ -5,5 +5,5 @@
 000500 1000-SECTION SECTION.                                            00050000
 000600 1000-MAIN.                                                       00060000
 000700      DISPLAY 'VS MAINFRAME TO GITHUB'                            00070000
-000800      DISPLAY 'PIO- Test'.                                       00080003
+000800      DISPLAY 'PIO- Test5'.                                       00080003
 000900      STOP RUN.                                                   00090000
