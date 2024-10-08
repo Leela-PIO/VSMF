@@ -4,6 +4,6 @@
 000400 PROCEDURE DIVISION.                                              00040000
 000500 1000-SECTION SECTION.                                            00050000
 000600 1000-MAIN.                                                       00060000
-000700      DISPLAY 'VS MAINFRAME TO GITHUB 2'                          0007000
-000800      DISPLAY 'PIO- Test6'.                                       00080003
+000700      DISPLAY 'VS MAINFRAME TO GITHUB 2-'                         0007000
+000800      DISPLAY 'PIO- Test6- Working on SubBranch'.                 00080003
 000900      STOP RUN.                                                   00090000
